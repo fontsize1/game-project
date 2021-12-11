@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Stb4S+Bu:m5PnVtcz4^a" x="0" y="0"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="-c-_g(B%n$cvuhleE$Wn" x="0" y="0"/><block type="keyonevent" id="QY#Tbty*R%7ewCv5^:Mo" x="450" y="170"><field name="button">controller.A</field><field name="event">ControllerButtonEvent.Pressed</field><statement name="HANDLER"><block type="mixer_play_sound" id="e9_oYLo.X7E:_`Y!{muI"><field name="sound">music.baDing</field></block></statement></block></xml>
